@@ -12,9 +12,8 @@ header img{
 
 nav{
 	background-color: #e1e1e1;
-	margin-top: -6.2rem;
-	padding: 1rem 0;
-	/*position: fixed;*/
+	margin-top: -5.5%;
+	padding: 1% 0;
 	width: 100%;
 }
 
@@ -33,31 +32,29 @@ header h1{
 	color: #fff;
 	font-family: times;
 	font-size: 4rem;
-	margin-bottom: 0rem;
+	margin-bottom: 0em;
 	margin-left: 10%;
-	padding-top: 10rem;	
+	padding-top: 10%;	
 }
 
 header h2{
 	color: #fff;
 	font-family: times;
 	font-size: 2rem;
-	margin-left: 10%;
-	margin-bottom: 0rem;
-	margin-top: 0rem;
+	margin: 0 0 0 10%;
 	overflow: hidden;
-	padding-bottom: 20rem;	
+	padding-bottom: 17.9%;	
 }
 
 .section-1{
 	background-color: #cccccc;
-	height: 28rem;
+	height: 28em;
 }
 
 .section-1 h2{
-	padding-top: 2rem;
+	padding-top: 2em;
 	font-size: 2rem;
-	margin-top: 0rem;
+	margin-top: 0em;
 	margin-left: 10%;
 	width: 100%;
 }
@@ -67,26 +64,24 @@ header h2{
 	font-size: 1.2rem;
 	margin-left: 10%;
 	width: 50%;
-	margin-bottom: 1.5rem;
+	margin-bottom: 1.5em;
 }
 
 .section-1 article + a{
 	background-color: #418eba;
 	color: #fff;
 	float: right;
-	margin-top: -8rem;
+	margin-top: -8em;
 	margin-right: 24%;
-	padding: 1rem 1.5rem;
+	padding: 1em 1.5em;
 }
 
 .section-1 article + a + section{
 	background-color: #e1e1e1;
 	margin: 0 auto;
 	padding: 4rem 0rem;
-	width: 80%;
-	
+	width: 80%;	
 }
-
 
 .section-1 article + a + section > a{
 	background-color: #418eba;
