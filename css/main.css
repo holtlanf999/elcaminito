@@ -46,12 +46,12 @@ header h2{
 	padding-bottom: 17.9%;	
 }
 
-.section-1{
+.porque-el-caminito{
 	background-color: #cccccc;
 	height: 28em;
 }
 
-.section-1 h2{
+.section-title{
 	padding-top: 2em;
 	font-size: 2rem;
 	margin-top: 0em;
@@ -59,7 +59,7 @@ header h2{
 	width: 100%;
 }
 
-.section-1 article{
+.porque-el-caminito article{
 	background-color: #cccccc;
 	font-size: 1.2rem;
 	margin-left: 10%;
@@ -67,7 +67,7 @@ header h2{
 	margin-bottom: 1.5em;
 }
 
-.section-1 article + a{
+.porque-el-caminito article + a{
 	background-color: #418eba;
 	color: #fff;
 	float: right;
@@ -76,14 +76,14 @@ header h2{
 	padding: 1em 1.5em;
 }
 
-.section-1 article + a + section{
+.porque-el-caminito article + a + section{
 	background-color: #e1e1e1;
 	margin: 0 auto;
 	padding: 4rem 0rem;
 	width: 80%;	
 }
 
-.section-1 article + a + section > a{
+.porque-el-caminito article + a + section > a{
 	background-color: #418eba;
 	border-radius: 1.8rem;
 	color: #fff;
