@@ -1,7 +1,7 @@
 header{
 	background: url(../img/banner.jpg) no-repeat;
 	background-size: 100%;
-}
+}	
 
 header img{
 	margin-left: 10%;
@@ -46,7 +46,9 @@ header h2{
 	padding-bottom: 17.9%;	
 }
 
-.porque-el-caminito{
+/*seccion: why-this-place start*/
+
+.why-this-place{
 	background-color: #cccccc;
 	height: 28em;
 }
@@ -59,7 +61,7 @@ header h2{
 	width: 100%;
 }
 
-.porque-el-caminito article{
+.why-this-place article{
 	background-color: #cccccc;
 	font-size: 1.2rem;
 	margin-left: 10%;
@@ -67,7 +69,7 @@ header h2{
 	margin-bottom: 1.5em;
 }
 
-.porque-el-caminito article + a{
+.why-this-place article + a{
 	background-color: #418eba;
 	color: #fff;
 	float: right;
@@ -76,14 +78,14 @@ header h2{
 	padding: 1em 1.5em;
 }
 
-.porque-el-caminito article + a + section{
+.why-this-place article + a + section{
 	background-color: #e1e1e1;
 	margin: 0 auto;
 	padding: 4rem 0rem;
 	width: 80%;	
 }
 
-.porque-el-caminito article + a + section > a{
+.why-this-place article + a + section > a{
 	background-color: #418eba;
 	border-radius: 1.8rem;
 	color: #fff;
@@ -93,6 +95,31 @@ header h2{
 	text-decoration: none;
 }
 
+/*seccion: why-this-place end*/
+
+/*section hotel-location start*/
+
+.hotel-location h2+img{
+	margin-left: 10%;
+}
+
+.hotel-location img{
+	margin: 0 0 2.5% 3.8%;
+	width: 10%;
+}
+
+.hotel-location a {
+	border-bottom: 0.1em solid #000;
+	display: block;
+	margin: 0 auto;
+	padding: 0 0 5% 0;
+	text-align: center;
+	text-decoration: none;
+	width: 80%;
+
+}
+
+/*section hotel-location end*/
 
 
 
